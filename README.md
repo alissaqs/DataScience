@@ -24,3 +24,5 @@ Repositório para todos os meus estudos e projetos de Data Science para acompanh
 [Estatística_Probabilidade_e_Amostragem.ipynb](/Estatística_Probabilidade_e_Amostragem.ipynb)
 
 [Análise_Probabilidade_e_Amostragem_PNAD_2015.ipynb](/Análise_Probabilidade_e_Amostragem_PNAD_2015.ipynb)
+
+[Regressão_Linear_Transformação_Logarítmica.ipynb](/Regressão_Linear_Transformação_Logarítmica.ipynb)
