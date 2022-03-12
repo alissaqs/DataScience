@@ -20,3 +20,5 @@ Repositório para todos os meus estudos e projetos de Data Science para acompanh
 [Linear_Regression_Project_China_Inequality.ipynb](/Linear_Regression_Project_China_Inequality.ipynb)
 
 [Análise_Descritiva_PNAD_2015.ipynb](/Análise_Descritiva_PNAD_2015.ipynb)
+
+[Estatística_Probabilidade_e_Amostragem.ipynb](/Estatística_Probabilidade_e_Amostragem.ipynb)
