@@ -28,3 +28,5 @@ Repositório para todos os meus estudos e projetos de Data Science para acompanh
 [Regressão_Linear_Transformação_Logarítmica.ipynb](/Regressão_Linear_Transformação_Logarítmica.ipynb)
 
 [Planejamento_experimentos.ipynb](/Planejamento_experimentos.ipynb)
+
+[Limpeza_de_Dados_e__Testes_Estastísticos_Comparando_Filmes.ipynb](/Limpeza_de_Dados_e__Testes_Estastísticos_Comparando_Filmes.ipynb)
