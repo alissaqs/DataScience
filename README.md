@@ -29,4 +29,8 @@ Repositório para todos os meus estudos e projetos de Data Science para acompanh
 
 [Planejamento_experimentos.ipynb](/Planejamento_experimentos.ipynb)
 
-[Limpeza_de_Dados_e_Testes_Estatísticos_Comparando_Filmes.ipynbb](/Limpeza_de_Dados_e_Testes_Estatísticos_Comparando_Filmes.ipynb)
+[Limpeza_de_Dados_e_Testes_Estatísticos_Comparando_Filmes.ipynb](/Limpeza_de_Dados_e_Testes_Estatísticos_Comparando_Filmes.ipynb)
+
+[Web_Scraping.ipynb](/DataScience/Web_Scraping.ipynb)
+
+
